@@ -13,6 +13,7 @@ package lotto;
  *edited by stan
  *l;dkgjlsdjgfl;sjdgfl;js;dlgjfl;sd;lgj
  *
+ *something here
  *
  *
 */public class Book { 
